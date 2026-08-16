@@ -27,7 +27,7 @@
 
 ### 🚀 Featured Project
 
-**[Extracta](https://github.com/maheshvarsan1902)** — Document Data Extraction Web App
+**Extracta** — Document Data Extraction Web App *(repo link coming soon)*
 A web app that lets users upload documents and returns clean, structured contact details, powered by the **Claude API**. Built end-to-end: file upload, prompt-driven extraction, and structured output — not just a script.
 `Python` `Claude API` `Web App`
 
@@ -41,6 +41,7 @@ A web app that lets users upload documents and returns clean, structured contact
 **Currently Learning:** LLMs · RAG · AI Agents
 
 ---
+
 <!--
 ### 📊 GitHub Stats
 
@@ -52,8 +53,8 @@ A web app that lets users upload documents and returns clean, structured contact
 </p>
 
 ---
-
 -->
+
 ### 📫 Connect with Me
 
 <p align="center">
@@ -64,14 +65,3 @@ A web app that lets users upload documents and returns clean, structured contact
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
- get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
