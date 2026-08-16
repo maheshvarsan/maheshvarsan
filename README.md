@@ -41,7 +41,7 @@ A web app that lets users upload documents and returns clean, structured contact
 **Currently Learning:** LLMs · RAG · AI Agents
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -53,6 +53,7 @@ A web app that lets users upload documents and returns clean, structured contact
 
 ---
 
+-->
 ### 📫 Connect with Me
 
 <p align="center">
