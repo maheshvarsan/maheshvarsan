@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 **maheshvarsan/maheshvarsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to<h1 align="center">Hi 👋, I'm Mahesh</h1>
